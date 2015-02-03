@@ -1,0 +1,3 @@
+bin/log-courier     usr/bin
+bin/lc-admin        usr/bin
+bin/lc-tlscert      usr/bin

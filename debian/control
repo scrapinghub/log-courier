@@ -1,0 +1,16 @@
+Source: log-courier
+Section: net
+Priority: extra
+Maintainer: Scrapinghub Team <info@scrapinghub.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: https://github.com/scrapinghub/log-courier
+
+Package: log-courier
+Architecture: any
+Description: Tool to ship log to remote Logstash instances
+  Log Courier is a tool created to ship log files speedily 
+  and securely to remote Logstash instances for processing 
+  whilst using small amounts of local resources. The project 
+  is an enhanced fork of Logstash Forwarder 0.3.1 with many 
+  fixes and behavioural improvements.
